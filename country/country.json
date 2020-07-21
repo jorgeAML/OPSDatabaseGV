@@ -1,0 +1,15 @@
+﻿[
+  {
+    "a": {
+"identity": 0,
+"labels": [
+        "pais"
+      ],
+"properties": {
+"name": "Guatemala",
+"altitude": "14.382659",
+"longitude": "90.304777"
+      }
+    }
+  }
+]
