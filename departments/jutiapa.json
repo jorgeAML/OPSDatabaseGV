@@ -1,0 +1,29 @@
+﻿[
+  {
+    "Pais": {
+"identity": 0,
+"labels": [
+        "pais"
+      ],
+"properties": {
+"name": "Guatemala",
+"latitude": 15.6093419,
+"longitude": -90.5600285
+      }
+    },
+    "Departamento": {
+"identity": 112,
+"labels": [
+        "Departamento"
+      ],
+"properties": {
+"elevation": 906,
+"extencionKM": 3219,
+"name": "Jutiapa",
+"creacion": "1852-05-08",
+"latitude": 14.2927749,
+"longitude": -89.8978752
+      }
+    }
+  }
+]
