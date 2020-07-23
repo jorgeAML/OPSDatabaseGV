@@ -1,0 +1,200 @@
+﻿[
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Jutiapa",
+    "Latitude": 14.2927749,
+    "Longitude": -89.8978752,
+    "Elevation": 906,
+    "Extension_KM": null,
+    "Creation_date": "1852-05-08"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Jalapa",
+    "Latitude": 14.6284141,
+    "Longitude": -89.9928038,
+    "Elevation": 1362,
+    "Extension_KM": 2063,
+    "Creation_date": "1873-11-26"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Chiquimula",
+    "Latitude": 14.7967799,
+    "Longitude": -89.5481928,
+    "Elevation": 424,
+    "Extension_KM": 2376,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Zacapa",
+    "Latitude": 14.9670811,
+    "Longitude": -89.5326156,
+    "Elevation": 185,
+    "Extension_KM": 2690,
+    "Creation_date": "1871-11-10"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Izabal",
+    "Latitude": 15.518099,
+    "Longitude": -88.72509,
+    "Elevation": 0.67,
+    "Extension_KM": 9038,
+    "Creation_date": "1866-05-08"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Peten",
+    "Latitude": 16.831011,
+    "Longitude": -90.047225,
+    "Elevation": 127,
+    "Extension_KM": 35854,
+    "Creation_date": "1866-05-08"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Huehuetenango",
+    "Latitude": 15.3212325,
+    "Longitude": -91.4687443,
+    "Elevation": 1902,
+    "Extension_KM": 7403,
+    "Creation_date": "1839-11-02"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Alta Verapaz",
+    "Latitude": 15.596925,
+    "Longitude": -90.090996,
+    "Elevation": 1317,
+    "Extension_KM": 8686,
+    "Creation_date": "1877-05-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Baja Verapaz",
+    "Latitude": 15.111707,
+    "Longitude": -90.412208,
+    "Elevation": 940,
+    "Extension_KM": 3124,
+    "Creation_date": "1877-05-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "El Quiche",
+    "Latitude": 15.4287001,
+    "Longitude": -91.0073168,
+    "Elevation": 2021,
+    "Extension_KM": 8378,
+    "Creation_date": "1872-08-12"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "San Marcos",
+    "Latitude": 14.9934677,
+    "Longitude": -91.8368271,
+    "Elevation": 2398,
+    "Extension_KM": 3701,
+    "Creation_date": "1866-05-08"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Suchitepequez",
+    "Latitude": 14.376171,
+    "Longitude": -91.364829,
+    "Elevation": 371,
+    "Extension_KM": 2510,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Retalhuleu",
+    "Latitude": 14.5382824,
+    "Longitude": -91.6824791,
+    "Elevation": 239,
+    "Extension_KM": 1856,
+    "Creation_date": "1877-10-16"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Quetzaltenango",
+    "Latitude": 14.8143735,
+    "Longitude": -91.5427484,
+    "Elevation": 2333,
+    "Extension_KM": 1948,
+    "Creation_date": "1845-09-16"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Totonicapan",
+    "Latitude": 14.9118574,
+    "Longitude": -91.3606075,
+    "Elevation": 2495,
+    "Extension_KM": 1061,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Solola",
+    "Latitude": 14.7683472,
+    "Longitude": -91.1863432,
+    "Elevation": 2113,
+    "Extension_KM": 1061,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Santa Rosa",
+    "Latitude": 14.147236,
+    "Longitude": -90.35885,
+    "Elevation": 893,
+    "Extension_KM": 2955,
+    "Creation_date": "1852-05-08"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Escuintla",
+    "Latitude": 14.305,
+    "Longitude": -90.785,
+    "Elevation": 347,
+    "Extension_KM": 4384,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Guatemala",
+    "Latitude": 14.6309713,
+    "Longitude": -90.5154828,
+    "Elevation": null,
+    "Extension_KM": null,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Sacatepequez",
+    "Latitude": 14.551615,
+    "Longitude": -90.757284,
+    "Elevation": 2200,
+    "Extension_KM": null,
+    "Creation_date": "1825-11-04"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Progreso",
+    "Latitude": 14.91588,
+    "Longitude": -90.068105,
+    "Elevation": 976,
+    "Extension_KM": null,
+    "Creation_date": "1908-04-13"
+  },
+  {
+    "Pais": "Guatemala",
+    "Departamento": "Chimaltenango",
+    "Latitude": 14.6614594,
+    "Longitude": -90.818912,
+    "Elevation": 1800,
+    "Extension_KM": 1979,
+    "Creation_date": "1839-09-12"
+  }
+]
