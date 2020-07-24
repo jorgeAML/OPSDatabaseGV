@@ -1,23 +1,23 @@
-﻿Pais,Departamento,Latitude,Longitude,Elevation,Extension_KM,Creation_date
-Guatemala,Jutiapa,14.2927749,-89.8978752,906,null,"""1852-05-08"""
-Guatemala,Jalapa,14.6284141,-89.9928038,1362,2063,"""1873-11-26"""
-Guatemala,Chiquimula,14.7967799,-89.5481928,424,2376,"""1825-11-04"""
-Guatemala,Zacapa,14.9670811,-89.5326156,185,2690,"""1871-11-10"""
-Guatemala,Izabal,15.518099,-88.72509,0.67,9038,"""1866-05-08"""
-Guatemala,Peten,16.831011,-90.047225,127,35854,"""1866-05-08"""
-Guatemala,Huehuetenango,15.3212325,-91.4687443,1902,7403,"""1839-11-02"""
-Guatemala,Alta Verapaz,15.596925,-90.090996,1317,8686,"""1877-05-04"""
-Guatemala,Baja Verapaz,15.111707,-90.412208,940,3124,"""1877-05-04"""
-Guatemala,El Quiche,15.4287001,-91.0073168,2021,8378,"""1872-08-12"""
-Guatemala,San Marcos,14.9934677,-91.8368271,2398,3701,"""1866-05-08"""
-Guatemala,Suchitepequez,14.376171,-91.364829,371,2510,"""1825-11-04"""
-Guatemala,Retalhuleu,14.5382824,-91.6824791,239,1856,"""1877-10-16"""
-Guatemala,Quetzaltenango,14.8143735,-91.5427484,2333,1948,"""1845-09-16"""
-Guatemala,Totonicapan,14.9118574,-91.3606075,2495,1061,"""1825-11-04"""
-Guatemala,Solola,14.7683472,-91.1863432,2113,1061,"""1825-11-04"""
-Guatemala,Santa Rosa,14.147236,-90.35885,893,2955,"""1852-05-08"""
-Guatemala,Escuintla,14.305,-90.785,347,4384,"""1825-11-04"""
-Guatemala,Guatemala,14.6309713,-90.5154828,null,null,"""1825-11-04"""
-Guatemala,Sacatepequez,14.551615,-90.757284,2200,null,"""1825-11-04"""
-Guatemala,Progreso,14.91588,-90.068105,976,null,"""1908-04-13"""
-Guatemala,Chimaltenango,14.6614594,-90.818912,1800,1979,"""1839-09-12"""
+﻿Country,Department,Extension_in_KM,Elevation,Creation_Date,Latitude,Longitude
+Guatemala,Sacatepequez,465,2200,"""1825-11-04""",14.551615,-90.757284
+Guatemala,Totonicapan,1061,2495,"""1825-11-04""",14.9118574,-91.3606075
+Guatemala,Solola,1061,2113,"""1825-11-04""",14.7683472,-91.1863432
+Guatemala,Retalhuleu,1856,239,"""1877-10-16""",14.5382824,-91.6824791
+Guatemala,Progreso,1922,976,"""1908-04-13""",14.91588,-90.068105
+Guatemala,Quetzaltenango,1948,2333,"""1845-09-16""",14.8143735,-91.5427484
+Guatemala,Chimaltenango,1979,1800,"""1839-09-12""",14.6614594,-90.818912
+Guatemala,Jalapa,2063,1362,"""1873-11-26""",14.6284141,-89.9928038
+Guatemala,Guatemala,2126,1499,"""1825-11-04""",14.6309713,-90.5154828
+Guatemala,Chiquimula,2376,424,"""1825-11-04""",14.7967799,-89.5481928
+Guatemala,Suchitepequez,2510,371,"""1825-11-04""",14.376171,-91.364829
+Guatemala,Zacapa,2690,185,"""1871-11-10""",14.9670811,-89.5326156
+Guatemala,Santa Rosa,2955,893,"""1852-05-08""",14.147236,-90.35885
+Guatemala,Baja Verapaz,3124,940,"""1877-05-04""",15.111707,-90.412208
+Guatemala,Jutiapa,3219,906,"""1852-05-08""",14.2927749,-89.8978752
+Guatemala,San Marcos,3701,2398,"""1866-05-08""",14.9934677,-91.8368271
+Guatemala,Escuintla,4384,347,"""1825-11-04""",14.305,-90.785
+Guatemala,Huehuetenango,7403,1902,"""1839-11-02""",15.3212325,-91.4687443
+Guatemala,El Quiche,8378,2021,"""1872-08-12""",15.4287001,-91.0073168
+Guatemala,Alta Verapaz,8686,1317,"""1877-05-04""",15.596925,-90.090996
+Guatemala,Izabal,9038,0.67,"""1866-05-08""",15.518099,-88.72509
+Guatemala,Peten,35854,127,"""1866-05-08""",16.831011,-90.047225
