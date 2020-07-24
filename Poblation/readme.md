@@ -1,5 +1,5 @@
 # Database of Population in Guatemala by Department
-We have the census and the date when official release of data population.
+You cand find the data of population by department using the next query
 
 > The next query will throw population order by Department
 
