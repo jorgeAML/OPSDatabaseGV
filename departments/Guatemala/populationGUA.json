@@ -48,5 +48,125 @@
     "Region": "Guatemala",
     "Population": 923392,
     "Date": "2018-07-23"
+  },
+  {
+    "Region": "Mixco",
+    "Population": 384428,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Mixco",
+    "Population": 465773,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Palencia",
+    "Population": 70973,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Palencia",
+    "Population": 14164,
+    "Date": "2002-11-23"
+  },
+  {
+    "Region": "San Miguel Petapa",
+    "Population": 94228,
+    "Date": "2002-11-23"
+  },
+  {
+    "Region": "San Miguel Petapa",
+    "Population": 135447,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "San Jose del Golfo",
+    "Population": 5156,
+    "Date": "2002-11-24"
+  },
+  {
+    "Region": "San Jose del Golfo",
+    "Population": 7229,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "San Jose Pinula",
+    "Population": 67327,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "San Jose Pinula",
+    "Population": 31436,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "San Pedro Ayampuc",
+    "Population": 48727,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "San Pedro Ayampuc",
+    "Population": 29663,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "San Pedro Sacatepequez",
+    "Population": 31783,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "San Pedro Sacatepequez",
+    "Population": 49589,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "San Raimundo",
+    "Population": 7407,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "San Raimundo",
+    "Population": 15447,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Santa Catarina Pinula",
+    "Population": 44974,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Santa Catarina Pinula",
+    "Population": 70982,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Villa Canales",
+    "Population": 124680,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Villa Canales",
+    "Population": 77638,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Villa Nueva",
+    "Population": 301947,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Villa Nueva",
+    "Population": 426316,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "San Juan Sacatepequez",
+    "Population": 81584,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "San Juan Sacatepequez",
+    "Population": 155965,
+    "Date": "2018-07-23"
   }
 ]
