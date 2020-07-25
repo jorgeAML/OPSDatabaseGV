@@ -1,0 +1,52 @@
+﻿[
+  {
+    "Region": "Amatitlan",
+    "Population": 60924,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Amatitlan",
+    "Population": 98176,
+    "Date": "2018-01-01"
+  },
+  {
+    "Region": "Chinautla",
+    "Population": 77071,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Chinautla",
+    "Population": 104972,
+    "Date": "2018-01-01"
+  },
+  {
+    "Region": "Chuarrancho",
+    "Population": 12638,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Chuarrancho",
+    "Population": 10101,
+    "Date": "2002-01-01"
+  },
+  {
+    "Region": "Fraijanes",
+    "Population": 58922,
+    "Date": "2018-07-23"
+  },
+  {
+    "Region": "Fraijanes",
+    "Population": 19454,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Guatemala",
+    "Population": 942348,
+    "Date": "2002-11-22"
+  },
+  {
+    "Region": "Guatemala",
+    "Population": 923392,
+    "Date": "2018-07-23"
+  }
+]
