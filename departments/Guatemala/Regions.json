@@ -1,0 +1,122 @@
+﻿[
+  {
+    "Department": "Guatemala",
+    "Municipio": "Amatitlan",
+    "Latitude": 14.4767797,
+    "Longitude": -90.624471,
+    "Altitude": 1205,
+    "Extent": 113
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Fraijanes",
+    "Latitude": 14.4566739,
+    "Longitude": -90.4437601,
+    "Altitude": 1585,
+    "Extent": 95.5
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Guatemala",
+    "Latitude": 14.6309713,
+    "Longitude": -90.5154828,
+    "Altitude": 1500,
+    "Extent": 220
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Mixco",
+    "Latitude": 14.626034,
+    "Longitude": -90.6299976,
+    "Altitude": 1691,
+    "Extent": 95.9
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Palencia",
+    "Latitude": 14.6796125,
+    "Longitude": -90.3064536,
+    "Altitude": 1399,
+    "Extent": 240
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Jose Pinula",
+    "Latitude": 14.54611,
+    "Longitude": -90.41139,
+    "Altitude": 1740,
+    "Extent": 202
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Jose del Golfo",
+    "Latitude": 14.76278,
+    "Longitude": -90.37639,
+    "Altitude": 930,
+    "Extent": 84
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Juan Sacatepequez",
+    "Latitude": 14.71889,
+    "Longitude": -90.644167,
+    "Altitude": 1836,
+    "Extent": 292
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Miguel Petapa",
+    "Latitude": 14.517778,
+    "Longitude": -90.554722,
+    "Altitude": 1260,
+    "Extent": 24.6
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Pedro Ayampuc",
+    "Latitude": 14.78667,
+    "Longitude": -90.45111,
+    "Altitude": 1201,
+    "Extent": 124
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Pedro Sacatepequez",
+    "Latitude": 14.6862,
+    "Longitude": -90.6425,
+    "Altitude": 2200,
+    "Extent": 37.9
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "San Raimundo",
+    "Latitude": 14.7966493,
+    "Longitude": -90.5435068,
+    "Altitude": 1578,
+    "Extent": 110
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Santa Catarina Pinula",
+    "Latitude": 14.5679271,
+    "Longitude": -90.4368233,
+    "Altitude": 1640,
+    "Extent": 49.3
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Villa Canales",
+    "Latitude": 14.48285,
+    "Longitude": -90.53425,
+    "Altitude": 1238,
+    "Extent": 295
+  },
+  {
+    "Department": "Guatemala",
+    "Municipio": "Villa Nueva",
+    "Latitude": 14.5338821,
+    "Longitude": -90.6358959,
+    "Altitude": 1334,
+    "Extent": 74.4
+  }
+]
