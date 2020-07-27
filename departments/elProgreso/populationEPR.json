@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Department": "Progreso",
+    "Region": "San Cristobal Acasaguastlan",
+    "Population": 7199,
+    "Date": "2018-07-23"
+  },
+  {
+    "Department": "Progreso",
+    "Region": "San Antonio La Paz",
+    "Population": 20957,
+    "Date": "2018-07-23"
+  },
+  {
+    "Department": "Progreso",
+    "Region": "San Agustin Acasaguastlan",
+    "Population": 45765,
+    "Date": "2018-07-23"
+  },
+  {
+    "Department": "Progreso",
+    "Region": "Sansare",
+    "Population": 13154,
+    "Date": "2018-07-23"
+  },
+  {
+    "Department": "Progreso",
+    "Region": "Sanarate",
+    "Population": 39444,
+    "Date": "2018-07-23"
+  },
+  {
+    "Department": "Progreso",
+    "Region": "Morazan",
+    "Population": 12164,
+    "Date": "2018-07-23"
+  },
+  {
+    "Department": "Progreso",
+    "Region": "El Jicaro",
+    "Population": 13128,
+    "Date": "2018-07-23"
+  }
+]
