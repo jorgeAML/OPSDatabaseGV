@@ -1,0 +1,65 @@
+﻿[
+  {
+    "Department": "Progreso",
+    "Region": "San Cristobal Acasaguastlan",
+    "Creation_Date": "1908-04-13",
+    "Altitude": 263,
+    "Extent": 124,
+    "Latitude": 15.0063053,
+    "Longitude": -89.8866452
+  },
+  {
+    "Department": "Progreso",
+    "Region": "San Antonio La Paz",
+    "Creation_Date": "1908-04-13",
+    "Altitude": 1240,
+    "Extent": 209,
+    "Latitude": 14.7426138,
+    "Longitude": -90.2744949
+  },
+  {
+    "Department": "Progreso",
+    "Region": "San Agustin Acasaguastlan",
+    "Creation_Date": "1908-04-13",
+    "Altitude": 297,
+    "Extent": 358,
+    "Latitude": 14.945245,
+    "Longitude": -89.9702274
+  },
+  {
+    "Department": "Progreso",
+    "Region": "Sansare",
+    "Creation_Date": "1908-04-13",
+    "Altitude": 793,
+    "Extent": 118,
+    "Latitude": 14.753592,
+    "Longitude": -90.1029952
+  },
+  {
+    "Department": "Progreso",
+    "Region": "Sanarate",
+    "Creation_Date": "1871-11-10",
+    "Altitude": 803,
+    "Extent": 273,
+    "Latitude": 14.7874911,
+    "Longitude": -90.1982664
+  },
+  {
+    "Department": "Progreso",
+    "Region": "Morazan",
+    "Creation_Date": "1887-12-15",
+    "Altitude": 355,
+    "Extent": 329,
+    "Latitude": 14.6670947,
+    "Longitude": -90.4944977
+  },
+  {
+    "Department": "Progreso",
+    "Region": "El Jicaro",
+    "Creation_Date": "1908-08-31",
+    "Altitude": 245,
+    "Extent": 249,
+    "Latitude": 14.8898945,
+    "Longitude": -89.9176779
+  }
+]
