@@ -1,0 +1,20 @@
+﻿[
+  {
+    "a": {
+"identity": 0,
+"labels": [
+        "pais"
+      ],
+"properties": {
+"east": "El Mar de las Antillas, Republica de Honduras y el Salvador",
+"south": "Oceano Pacifico",
+"north": "Republica de Mexico",
+"latitude": 15.6093419,
+"west": "Republica de Mexico",
+"name": "Guatemala",
+"location": "Oeste del meridiano de Greenwitch",
+"longitude": -90.5600285
+      }
+    }
+  }
+]

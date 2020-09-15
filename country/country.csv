@@ -1,2 +1,2 @@
-﻿Pais,Latitude,Longitude
-Guatemala,15.6093419,-90.5600285
+﻿Country,Latitude,Longitude,location,North,South,West,East
+Guatemala,15.6093419,-90.5600285,Oeste del meridiano de Greenwitch,Republica de Mexico,Oceano Pacifico,Republica de Mexico,"El Mar de las Antillas, Republica de Honduras y el Salvador"
